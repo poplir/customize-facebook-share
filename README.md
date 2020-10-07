@@ -23,7 +23,7 @@ This URL gets shared in the front-end by the visitors.
 
 == Frequently Asked Questions ==
 
-For support, please email: rajat.popli@mail.com. You will recieve a reply within 24 hours or less.
+For support, please email: rpopli5@gmail.com. You will recieve a reply within 24 hours or less.
 
 == Changelog ==
 
