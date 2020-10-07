@@ -1,0 +1,30 @@
+#pop_up_dialog  {
+	
+	color: #3b5998;
+	
+}
+
+#msg  {
+	padding-left: 25%;
+
+}
+
+.ui-dialog  {
+	position: fixed;
+}
+
+.ui-widget-overlay  {
+	opacity: .70;
+	filter: Alpha(Opacity=70);
+	position: fixed;
+}
+
+.ui-dialog-titlebar  {
+	display: none;
+}
+
+
+
+
+
+
